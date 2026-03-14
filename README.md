@@ -33,7 +33,7 @@ Name: Long | Age: 19 | GPA: 4 | School: PTIT
 
 Clone the repository:
 
-git clone https://github.com/your-username/student-manager.git
+git clone https://github.com/hhlong2808/Python_Mini_StudentManager.git
 
 Run the program:
 
