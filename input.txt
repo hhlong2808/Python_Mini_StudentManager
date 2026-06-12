@@ -1,0 +1,4 @@
+"Long", 19, 4.0
+"Vinh", 18, 3.6
+Sai Dinh Dang, muoi_tam, 3.0
+"Lam", 18, 3.2
